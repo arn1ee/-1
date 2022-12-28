@@ -1,4 +1,4 @@
 # Use-Case diagram
-Как открыть: diagrams.net -> GitHub -> Открыть существующую диаграмму -> Use-Case
+Как открыть: GitHub -> Use-Case -> Download ZIP -> Diagrams.net
 
 Выполнил: Тимофеев Глеб 
